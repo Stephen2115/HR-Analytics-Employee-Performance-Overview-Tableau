@@ -4,7 +4,7 @@
 The objective of this project is to develop an interactive Human Resources Analytics Dashboard using Tableau to analyze employee data and generate meaningful workforce insights. The dashboard aims to track key HR metrics, understand department and state-wise employee distribution, analyze hiring trends, explore gender and job-role diversity, and evaluate employee age and tenure. It enables users to interact with the data through dynamic filters and visualizations, supporting effective workforce analysis and data-driven decision-making.
 
 ## Dataset used
-- <a href="https://github.com/Stephen2115/IPL-Analytics-Dashboard/blob/main/IPL_Dataset.xlsx">Dataset</a>
+- <a href="https://github.com/Stephen2115/HR-Analytics-Employee-Performance-Overview-Tableau/blob/main/Project_1_dataset.xlsx">Dataset</a>
 
 ## Questions
 - What is the total number of employees hired and terminated?
@@ -35,7 +35,7 @@ The objective of this project is to develop an interactive Human Resources Analy
 - Which combinations of department, state, and job title have the highest employee counts?
 - How does employee status vary across different departments?
 - What workforce patterns can be identified from the overall HR data?
-- HR Analytics Employee Performance Overview Dashboard  <a href="https://github.com/Stephen2115/IPL-Analytics-Dashboard/blob/main/IPL_Dashboard.pbix">View Dashboard</a>
+- HR Analytics Employee Performance Overview Dashboard  <a href="https://github.com/Stephen2115/HR-Analytics-Employee-Performance-Overview-Tableau/blob/main/Project%201.twbx">View Dashboard</a>
 
 ### Process 
 - Collected employee and HR-related data containing details such as department, job title, gender, state, hiring date, termination date, age, and tenure.
@@ -50,8 +50,8 @@ The objective of this project is to develop an interactive Human Resources Analy
 - Designed the dashboard with a clear layout to make HR information easy to understand and explore.
 
 ## Dashboard
-![Uploading Screenshot (495)](https://github.com/Stephen2115/IPL-Analytics-Dashboard/blob/main/Screenshot%202026-08-31%20172338.png)
-![Uploading Screenshot (495)](https://github.com/Stephen2115/IPL-Analytics-Dashboard/blob/main/Screenshot%202026-08-31%20172429.png)
+![Uploading Screenshot (495)](https://github.com/Stephen2115/HR-Analytics-Employee-Performance-Overview-Tableau/blob/main/Screenshot%202026-09-17%20210438.png)
+![Uploading Screenshot (495)](https://github.com/Stephen2115/HR-Analytics-Employee-Performance-Overview-Tableau/blob/main/Screenshot%202026-09-17%20210758.png)
 
 ### Project Insights
 - The dashboard provides a clear overview of the organization’s overall workforce and employee status.
